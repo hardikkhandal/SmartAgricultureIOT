@@ -1,2 +1,2 @@
 # SmartAgricultureIOT
-A Embedded IOT Project using NODEMCU and Arduino using Serial Port Communication connected to ThingESP and ThingSpeak and uses Whatsapp to take commands to control the sensors using Whatsapp
+A Embedded IOT Project using NODEMCU and Arduino using Serial Port Communication connected to ThingESP and ThingSpeak and uses Whatsapp to take commands to control the sensors using Whatsapp or Telegram. All the sensors are connected to Arduino and the data is then sent to NODEMCU. The data from NodeMCU is sent to a website made from REACTJS and a OpenAI API is used to suggest the plants and seeds can be grown on that soil after monitoring the data.
